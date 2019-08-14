@@ -16,7 +16,7 @@ Run `npm run test` for executing test cases.
 ## Build
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-##Api Endpoints
+## Api Endpoints
 I didnt realise that there was a live api. i created a mock server instead. 
 realized after submitting the test. 
 
