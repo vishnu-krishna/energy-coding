@@ -1,0 +1,28 @@
+<ng-container *ngIf="!error">
+  <div *ngFor="let musicRecord of musicFestivalResults" class="tree">
+    <div class="tree__record-label">
+    <span>
+      <strong>Record Label:</strong>
+      {{musicRecord.recordLabel}}
+  </span>
+    </div>
+    <div *ngFor="let band of musicRecord.bands" class="tree__bands">
+    <span>
+      <strong>BandName:</strong>
+      {{band.bandName}}
+    </span>
+      <div>
+        <strong>Music Festivals Attended:</strong>
+      </div>
+      <div *ngFor="let musicFestival of band.musicFestivals" class="tree__bands__music-festival">
+      <span>
+        {{musicFestival}}
+      </span>
+      </div>
+    </div>
+    <br/>
+  </div>
+</ng-container>
+<ng-container *ngIf="error">
+  <span class="tree__error">Error in fetching data</span>
+</ng-container>

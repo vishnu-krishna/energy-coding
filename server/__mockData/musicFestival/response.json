@@ -1,0 +1,103 @@
+[
+  {
+    "name": "LOL-palooza",
+    "bands": [
+      {
+        "name": "Winter Primates",
+        "recordLabel": "MEDIOCRE Music"
+      },
+      {
+        "name": "Jill Black",
+        "recordLabel": "Fourth Woman Records"
+      },
+      {
+        "name": "Frank Jupiter",
+        "recordLabel": "Pacific Records"
+      },
+      {
+        "name": "Werewolf Weekday",
+        "recordLabel": "XS Recordings"
+      }
+    ]
+  },
+  {
+    "name": "Small Night In",
+    "bands": [
+      {
+        "name": "Yanke East",
+        "recordLabel": "MEDIOCRE Music"
+      },
+      {
+        "name": "Jill Black",
+        "recordLabel": "Fourth Woman Records"
+      },
+      {
+        "name": "The Black Dashes",
+        "recordLabel": "Fourth Woman Records"
+      },
+      {
+        "name": "Wild Antelope",
+        "recordLabel": "Marner Sis. Recording"
+      },
+      {
+        "name": "Green Mild Cold Capsicum",
+        "recordLabel": "Marner Sis. Recording"
+      },
+      {
+        "name": "Squint-281",
+        "recordLabel": "Outerscope"
+      }
+    ]
+  },
+  {
+    "name": "Trainerella",
+    "bands": [
+      {
+        "name": "YOUKRANE",
+        "recordLabel": "Anti Records"
+      },
+      {
+        "name": "Adrian Venti",
+        "recordLabel": "Monocracy Records"
+      },
+      {
+        "name": "Manish Ditch",
+        "recordLabel": "ACR"
+      },
+      {
+        "name": "Wild Antelope",
+        "recordLabel": "Still Bottom Records"
+      }
+    ]
+  },
+  {
+    "name": "Twisted Tour",
+    "bands": [
+      {
+        "name": "Squint-281",
+        "recordLabel": "Marner Sis. Recording"
+      },
+      {
+        "name": "Auditones",
+        "recordLabel": "Marner Sis. Recording"
+      },
+      {
+        "name": "Summon",
+        "recordLabel": "Outerscope"
+      }
+    ]
+  },
+  {
+    "name": "Omega Festival",
+    "bands": [
+      {
+        "name": "Propeller",
+        "recordLabel": "Pacific Records"
+      },
+      {
+        "name": "Critter Girls",
+        "recordLabel": "ACR"
+      }
+    ]
+  }
+]
