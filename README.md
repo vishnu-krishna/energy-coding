@@ -16,6 +16,15 @@ Run `npm run test` for executing test cases.
 ## Build
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
+##Api Endpoints
+I didnt realise that there was a live api. i created a mock server instead. 
+realized after submitting the test. 
+
+Also when trying to access the real api, getting some cors issue now(Cors is been taken care in mock backend server which is part of this app).
+
+Nevertheless, if the mock server and angular is running, it would produce the desirable result when the above instructions are followed for running the app.
+
+
 
 ## Further help
 
